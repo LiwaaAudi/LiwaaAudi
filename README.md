@@ -4,6 +4,10 @@
 </h1>
 
 
+## GitHub Stats
+
+![Liwaa Audi's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiwaaAudi&show_icons=&private_count=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielawde9&layout=compact)]()
 <!--
 **LiwaaAudi/LiwaaAudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
