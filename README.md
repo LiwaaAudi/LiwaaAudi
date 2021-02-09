@@ -1,4 +1,8 @@
-### Hi there 👋
+<img align="right" src="https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.gif" height="160px" width="auto">
+
+<h1 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hello There</strong>
+</h1>
+
 
 <!--
 **LiwaaAudi/LiwaaAudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
