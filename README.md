@@ -1,4 +1,4 @@
-<img align="right" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" height="160px" width="auto">
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="160px" width="auto">
 
 <h1 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hello There</strong>
 </h1>
