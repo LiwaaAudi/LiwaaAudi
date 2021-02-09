@@ -3,6 +3,7 @@
 <h1 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hello There</strong>
 </h1>
 
+<hr>
 
 ## GitHub Stats
 
