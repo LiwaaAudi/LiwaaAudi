@@ -6,6 +6,7 @@
 <hr>
 
 ## GitHub Stats
+![](https://komarev.com/ghpvc/?username=LiwaaAudi&color=green)
 
 ![Liwaa Audi's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiwaaAudi&show_icons=&private_count=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiwaaAudi&layout=compact&langs_count=8)](https://github.com/LiwaaAudi/github-readme-stats)
