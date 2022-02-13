@@ -50,6 +50,5 @@
 
 ## GitHub Stats
 
-| ![Liwaa Audi's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiwaaAudi&show_icons=true&private_count=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiwaaAudi&layout=compact&private_count=true)](https://github.com/LiwaaAudi/github-readme-stats) |
-| ------------- | ------------- |
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiwaaAudi&layout=compact&private_count=true)](https://github.com/LiwaaAudi/github-readme-stats)
 
